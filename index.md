@@ -7,6 +7,5 @@ Esta es mi página principal en mi camino a convertirme "al menos" en shichibuka
 Iré subiendo mis avances a esta página a modo de diario de aprendizaje.
 
 ## Poyectos destacados
-- [Mi primer proyecto](https://github.com/MonkeyDLemon37/primer-proyecto)  
 - [Mi ToDo List android java](https://github.com/MonkeyDLemon37/mitodolist)
 
